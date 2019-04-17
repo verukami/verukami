@@ -57,7 +57,6 @@
 /* Primary header */
 .title {
     font-family: Space Mono;
-    font-style: normal;
     font-weight: normal;
     font-size: 60px;
     line-height: 68px;
@@ -124,7 +123,7 @@
     -webkit-text-fill-color: transparent;
 }
 
-
+/* Second section, intro */
 section {
     color: #fff;
     width: 50%;
@@ -134,6 +133,6 @@ section {
 
 aside {
     width: 30%;
-    margin-left: 50%;
+    margin-left: 80%;
 
 }
