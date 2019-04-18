@@ -42,8 +42,11 @@
 
 
 .container {
-    left: 150px;
-    top: 885px;
+    display: flex;
+    align-content: space-between;
+    align-items: center;
+
+    height: 800px; 
     padding-left: 150px;
     padding-right: 150px;
     
@@ -84,7 +87,6 @@
 
 .info {
 
-
     font-family: Space Mono;
     font-weight: normal;
     font-size: 24px;
@@ -99,7 +101,6 @@
 
 /* Regular text */
 .copy {
-
     
     font-family: 'Karla', sans-serif;
     font-weight: normal;
@@ -123,16 +124,61 @@
     -webkit-text-fill-color: transparent;
 }
 
-/* Second section, intro */
-section {
-    color: #fff;
-    width: 50%;
-    position: absolute;
-    top: 0;
+/* A little intro about the project */
+
+.background-container{
+    height: 800px; 
+    background-color: #fbf2ec;
+    padding-right: 47px;
+    padding-left: 47px;
 }
 
-aside {
-    width: 30%;
-    margin-left: 80%;
 
+
+
+/* A little intro about the project */
+#introduction{
+    flex: 3;
+    padding-right: 47px;
+    padding-left: 47px;
+}
+
+#little-info {
+    flex: 1;
+    padding-right: 47px;
+    padding-left: 47px;
+}
+
+/* Secion 3 Review */
+
+.background-gradient{
+    display: flex;
+    flex-direction: column;
+
+    height: 800px; 
+    padding-left: 150px;
+    padding-right: 150px;
+    background: -webkit-linear-gradient(-135deg,#5A9DFF,#BD7CF0);
+
+}
+
+.review {
+    display: flex;
+    align-content: space-between;
+    align-items: center;
+    flex-direction: column;
+
+    height: 500px; 
+    padding-left: 97px;
+    padding-right: 97px;
+    background-color: #FDFCFC;
+}
+
+.vertical{
+    display: flex;
+    flex-direction: column;
+
+    height: 800px; 
+    padding-left: 150px;
+    padding-right: 150px;
 }
