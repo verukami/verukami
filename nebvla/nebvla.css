@@ -58,6 +58,18 @@ html {
 
 
 
+.fa-envelope-open{
+}
+
+.fa-behance{
+}
+
+.fa-linkedin-in{
+}
+
+.fa-instagram{
+}
+    
 
 .top-bar {
     position: fixed;
@@ -276,7 +288,7 @@ html {
 
 .challenges {
     width: 50%;
-    padding: 0 50px 0 150px;
+    padding: 0 150px 0 150px;
 }
 
 .girl-photo{
@@ -296,9 +308,8 @@ html {
     align-items: center;
     flex-direction: column;
 
-    height: 500px; 
-    padding-left: 150px;
+    height: 100vh; 
     padding-right: 150px;
+    padding-left: 150px;
 }
 
-}
