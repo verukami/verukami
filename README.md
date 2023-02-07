@@ -1,9 +1,8 @@
 ### Hi there, I'm Verónica 👋
 
-I'm a UI Designer and a Junior Front-End Developer bases in Mexico city✨  
+I'm a senior Product Designer with some Frontend knowledge with experience working remotely. I have experience working in creative agencies and I've worked in cross-functional teams in startups and tech companies.
 
-### About me 
-After 10 years working as a designer I decided to come to the dark side deciding to do a Bootcamp and then I began to study on my own
+My latest experience is working as a Product Designer consultant at Concentrix, where I have participated in several projects such as mobile apps and web apps from different industries, helping to create the visual image as well as emphasizing the user experience. 
 
 -  📚 Working to become a pro in CSS and React
 - 🌱Passionate about AI
