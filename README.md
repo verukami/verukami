@@ -9,3 +9,4 @@ My latest experience is working as a Product Designer consultant at Concentrix, 
 - 💜  Exploring Python 
 - 😄 Pronouns: She/her
 
+![portrai](https://user-images.githubusercontent.com/13671247/217910804-7c339cf4-e8cf-4ca4-a361-9620f64a51e8.png)
